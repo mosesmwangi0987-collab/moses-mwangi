@@ -1,39 +1,60 @@
+# 👋 Hi — I’m Mwangi Moses
 
+A front-end developer focused on building responsive, accessible, and visually engaging user interfaces. I'm learning modern web technologies and sharing my progress in this repo.
 
-
-👋 Hi there! I'm Mwangi Moses, a passionate front-end developer on a journey to expand my skills and build meaningful digital experiences.
+---
 
 ## 🚀 About Me
-I'm currently focused on mastering modern web technologies and frameworks. My goal is to create responsive, accessible, and visually engaging interfaces that solve real-world problems. I believe in clean code, continuous learning, and collaboration.
+
+I enjoy crafting user experiences with clean, maintainable code. Currently I am deepening my knowledge of React, Vue, and modern CSS. I aim to build polished UI components, optimize performance, and follow accessibility best practices.
 
 ## 🛠️ Technologies I'm Exploring
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js & Vue.js
-- Tailwind CSS & Bootstrap
-- Git & GitHub
-- REST APIs & JSON
-- Web performance optimization
+
+- **Languages & Core:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries:** React, Vue
+- **Styling:** Tailwind CSS, Bootstrap
+- **Tooling & Workflow:** Git, GitHub, npm, Vite
+- **APIs & Data:** REST APIs, JSON, Fetch / Axios
+- **Focus areas:** Web performance, accessibility (a11y), responsive design
 
 ## 📚 What You'll Find Here
-This repository will serve as a showcase of my learning journey, including:
+
+This repository is a showcase of my learning journey and experiments:
+
 - Mini projects and UI components
 - Code snippets and reusable patterns
 - Notes and resources from courses and tutorials
 - Experiments with new libraries and tools
 
+If you want to see something specific, open an issue or reach out!
+
+## ✨ Projects (Work in Progress)
+
+- Responsive Navbar — a lightweight, accessible navigation component
+- Todo App — practice with state management and localStorage
+- UI Patterns — small reusable components (buttons, modals, forms)
+
+(Links will be added as projects are pushed to the repo.)
+
 ## 🌱 Goals
+
 - Build a portfolio of polished frontend projects
-- Contribute to open-source initiatives
+- Contribute to open-source when possible
 - Collaborate with other developers and designers
 - Stay up-to-date with industry trends and best practices
 
-## 📬 Let's Connect
-Feel free to reach out if you'd like to collaborate, share feedback, or just say hi! you can reach me at mosesmwangi0987@gmail.com
+## 📬 Contact
+
+I'd love to connect! Email: [mosesmwangi0987@gmail.com](mailto:mosesmwangi0987@gmail.com)
+
+## 📊 GitHub (optional)
+
+Add your GitHub stats or profile cards below by uncommenting the lines and replacing the username if needed:
+
+<!--
+![Mwangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosesmwangi0987-collab&theme=default&show_icons=true)
+-->
 
 ---
 
-Thanks for stopping by! 🚧 This repository is a work in progress, so stay tuned for updates.
-```
-
-
-
+Thanks for stopping by — this repository is a work in progress. Contributions, feedback, and collaboration invites are welcome!
