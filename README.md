@@ -1,5 +1,5 @@
 
-# mwangi-moses
+
 
 👋 Hi there! I'm Mwangi Moses, a passionate front-end developer on a journey to expand my skills and build meaningful digital experiences.
 
@@ -35,4 +35,5 @@ Feel free to reach out if you'd like to collaborate, share feedback, or just say
 Thanks for stopping by! 🚧 This repository is a work in progress, so stay tuned for updates.
 ```
 
-Want me to tailor it more toward a specific framework or project you're working on?
+
+
