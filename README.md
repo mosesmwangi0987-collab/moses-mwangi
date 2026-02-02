@@ -47,14 +47,5 @@ If you want to see something specific, open an issue or reach out!
 
 I'd love to connect! Email: [mosesmwangi0987@gmail.com](mailto:mosesmwangi0987@gmail.com)
 
-## 📊 GitHub (optional)
-
-Add your GitHub stats or profile cards below by uncommenting the lines and replacing the username if needed:
-
-<!--
-![Mwangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosesmwangi0987-collab&theme=default&show_icons=true)
--->
-
----
 
 Thanks for stopping by — this repository is a work in progress. Contributions, feedback, and collaboration invites are welcome!
